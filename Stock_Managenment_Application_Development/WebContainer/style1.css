@@ -1,0 +1,9 @@
+h1{
+	color:blue;
+}
+body{
+	background:url("./sp1.jpg");
+	background-size:100%;
+	background-position:-5px 0px;
+
+}

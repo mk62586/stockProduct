@@ -1,0 +1,46 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background:url("./sp.jpg");
+	background-size:100%;
+	background-position:-5px 0px;
+
+}
+h4{
+	color:Yellow;
+margin-top: 100px;
+}
+
+h1{
+	color:red;
+	float:unset;
+	margin-bottom:25px;
+	
+}
+
+ul{
+	
+	float :right;
+	list-style-type:none;
+	
+}
+ul li{
+	display:inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color:#fff;
+    padding: 5px 20px;
+    border: 1px solid;
+}
+ul li a:hover{
+	background-color:#fff;
+	color:#000;
+}
+ul li.active a{
+	background-color:#fff;
+	color:#000;
+}
+
